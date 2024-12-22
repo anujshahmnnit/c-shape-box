@@ -33,7 +33,7 @@ A simple project to create and demonstrate a **C-shaped box** using HTML, CSS, a
 ---
 ## Live Demo
 
-👉 **[View the Live Project Here](https://username.github.io/c-shape-box/)** 👈
+👉 **[View the Live Project Here](https://anujshahmnnit.github.io/c-shape-box/)** 👈
 
 
 ## Usage
